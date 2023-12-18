@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.fe927caf.css",
-    "main.js": "/home/static/js/main.489f4ed8.js",
-    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
-    "static/media/jiahaoguo.png": "/home/static/media/jiahaoguo.b3a708ddeeaeff87856f.png",
-    "static/media/wechat_qrcode.jpg": "/home/static/media/wechat_qrcode.28bf7a3d79d9b20ad180.jpg",
-    "index.html": "/home/index.html",
-    "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
-    "main.489f4ed8.js.map": "/home/static/js/main.489f4ed8.js.map",
-    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
+    "main.css": "/static/css/main.fe927caf.css",
+    "main.js": "/static/js/main.f683bc6b.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/jiahaoguo.png": "/static/media/jiahaoguo.b3a708ddeeaeff87856f.png",
+    "static/media/wechat_qrcode.jpg": "/static/media/wechat_qrcode.28bf7a3d79d9b20ad180.jpg",
+    "index.html": "/index.html",
+    "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
+    "main.f683bc6b.js.map": "/static/js/main.f683bc6b.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.489f4ed8.js"
+    "static/js/main.f683bc6b.js"
   ]
 }
